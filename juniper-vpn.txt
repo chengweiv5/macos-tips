@@ -1,0 +1,4 @@
+Start Network Connect from web seems doesn't work for me, I searched below page and get
+Network Connect client installed, it works.
+
+http://wheatoncollege.edu/technology/started/networks-wheaton/juniper-vpn-instructions/juniper-vpn-instructions-for-macintosh/
