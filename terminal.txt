@@ -1,0 +1,4 @@
+1. Why ternimal doesn't load ~/.bashrc?
+
+Terminal.app start a bash as login shell, it will read ~/.profile, so just
+source ~/.bashrc from there is OK.
