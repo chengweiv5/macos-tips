@@ -1,0 +1,6 @@
+There is a fantastic package manager for Mac, especially for an advanced user.
+
+Experience it from
+
+https://github.com/Homebrew/homebrew
+http://brew.sh/
