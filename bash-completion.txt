@@ -1,0 +1,8 @@
+1. How to enable command's bash completion?
+
+By default, bash doesn't source completion files installed, for example,
+"brew install tmux" install a bash completion file for tmux into, by default,
+/usr/local/etc/bash_completion.d/tmux
+
+So the only to do is ask your bash to source it when it starts, so just source
+it in your ~/.profile
