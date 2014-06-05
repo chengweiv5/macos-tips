@@ -1,0 +1,4 @@
+1. How to show file path in finder file manager?
+
+1. How to uninstall an application?
+	Just open finder and locate to "Applicatons" and right click the application and select "Move to trash"
