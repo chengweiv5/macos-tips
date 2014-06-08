@@ -1,0 +1,2 @@
+How to delete application installed from app store?
+	enter launchpad and select an app, press until all icons are swing.
