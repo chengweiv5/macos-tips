@@ -1,22 +1,58 @@
-1. How to close a tab?
+How to close a tab or window?
 	command + w
 
-2. How to close a application?
+How to quite a application?
 	command + q
 
-3. How to refresh web page?
+How to minimize a window?
+	command + m
+
+How to refresh web page?
 	command + r
 
-4. How to lock the computer?
+How to lock the computer?
 	Press power button for two seconds or close the led
 
-5. PageUp/Down?
+PageUp/Down?
 	option + ArrowUp or ArrowDown
 
-6. PageHome/End?
+PageHome/End?
 	command + ArrowUp or ArrowDown
 
-7. FN keys
+FN keys
 	F3: expo
 	F4: launchpad
 	F5/F6: dim off or light on keyboard
+
+How to delete the character after mouse?
+	fn + delete
+
+How to delete a file?
+	command + delete
+
+How to preview a file?
+	select a file and press "space" button
+
+How to show/hide dock?
+	option + command + d
+
+How to force quit a program?
+	option + command + esc
+
+How to take a desktop screenshot?
+	command + shift + 3
+
+How to take a specified area screenshot?
+	command + shift + 4
+
+How to take a window screenshot?
+	command + shift + 4 and then "space"
+
+How to enable dictation?
+	press fn twice
+
+How to lower/higher volume in quite?
+	shift + F11/F12
+
+How to enter dual boot menu?
+	press option when boot
