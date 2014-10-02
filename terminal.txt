@@ -2,3 +2,9 @@
 
 Terminal.app start a bash as login shell, it will read ~/.profile, so just
 source ~/.bashrc from there is OK.
+
+2. How to hide file?
+
+Open terminal and run
+$ chflags hidden /path/to/folder/
+$ chflags nohidden /path/to/folder/
