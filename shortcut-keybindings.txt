@@ -56,3 +56,6 @@ How to lower/higher volume in quite?
 
 How to enter dual boot menu?
 	press option when boot
+
+How to kill an app forcely?
+	command + option + shift + esc
